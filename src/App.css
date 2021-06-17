@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+/* CUSTOM CSS */
+
+h1 {
+  text-transform: uppercase;
+  color: rgb(10, 209, 199);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h2 {
+  font-size: 2.3em;
+}
+
+p input {
+  margin-right: 10px;
+  margin-top: 4px;
+}
+
+p {
+  display: flex;
+  align-items: center;
+}
